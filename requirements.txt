@@ -1,1 +1,7 @@
 streamlit
+pandas
+folium
+matplotlib
+openrouteservice
+openpyxl
+streamlit_folium
